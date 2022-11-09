@@ -1,0 +1,3 @@
+# lists all the dependencies your code needs to work properly.
+
+Flask==2.2.2
