@@ -15,7 +15,7 @@ def index():
                 <input type="text" name="number">
                 <input type="submit" value="Apply">
             </form>"""
-        + "Double: "
+        + "Double: The new version"
         + double
     )
 
